@@ -1,0 +1,31 @@
+KONTROL MANUEL ASİSTANI – iPhone'a kurulum
+============================================
+
+Bu klasördeki dosyalar birlikte yüklenir (KURULUM.txt hariç 7 dosya). Adlarını değiştirmeyin.
+
+1) GITHUB PAGES'E YÜKLE (bir kez, bilgisayardan daha rahat)
+   a. github.com'da ücretsiz hesap açın.
+   b. Sağ üstte "+" > "New repository". Ad: manuel-asistani  ·  "Public" seçin  ·  Create.
+   c. Açılan sayfada "uploading an existing file" linkine basın.
+      Bu klasördeki tüm dosyaları sürükleyip bırakın > "Commit changes".
+   d. Settings > Pages > "Branch: main" ve "/ (root)" seçin > Save.
+   e. 1-2 dakika sonra adres hazır olur:
+      https://KULLANICI-ADINIZ.github.io/manuel-asistani/
+
+2) iPHONE'A KUR
+   a. Adresi iPhone'da SAFARI ile açın (Chrome değil).
+   b. Alttaki Paylaş düğmesi (kare + yukarı ok) > "Ana Ekrana Ekle" > Ekle.
+   c. Ana ekrandaki turuncu kar tanesi simgesinden açın.
+      İlk açılışta internet olsun; sonrasında internetsiz çalışır.
+
+3) GÜNCELLEME
+   Yeni index.html'i GitHub'a aynı adla yükleyin, sw.js içindeki
+   'kma-v1' yazısını 'kma-v2' yapıp onu da yükleyin.
+   Telefonda uygulamayı internet varken bir-iki kez açıp kapatın.
+
+NOTLAR
+ - Yapay zekâ ayarındaki API anahtarı ana ekran uygulamasında ayrı saklanır;
+   Safari'de girdiyseniz uygulamada bir kez daha girin. Anahtar dosyaya yazılmaz.
+ - "Manuel PDF" linklerinin çalışması için PDF dosyalarını da aynı klasöre
+   yükleyin; bir kez açılan PDF internetsiz de açılır.
+ - Repo "Public" olduğu için adresi bilen herkes programı açabilir.
