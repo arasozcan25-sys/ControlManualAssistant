@@ -1,6 +1,6 @@
 // Kontrol Manuel Asistanı – offline önbellek
 // Programı güncellediğinizde aşağıdaki sürüm numarasını artırın (v1 -> v2 ...)
-const CACHE = 'kma-v1';
+const CACHE = 'kma-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest',
   './apple-touch-icon.png', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 
